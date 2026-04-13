@@ -31,8 +31,6 @@ client_verify_server_response() #line 95
 client_create_initial_message() #line 52
 ## can change the basic (encrypt, decrypt, hash) in server.py and protocol.py{depending on preference}
 
-variables to change:
-
 
 
 
